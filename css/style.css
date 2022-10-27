@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.container {
+    margin: auto;
+    max-width: 700px;
+    border: 1px solid red;
+}
+
+h1, p{
+    text-align: center;
+    margin: 10px;
+}
+
+form{
+    margin: 20px;;
+}
+
+ul{
+    margin: 50px;
+}
